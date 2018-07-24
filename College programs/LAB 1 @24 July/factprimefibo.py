@@ -7,7 +7,8 @@ def prime(n):
         i = i + 1
     print(str(n) + " is prime")
 
-def fibo(n):
+
+def fibonacci(n):
     a = 0
     b = 1
     i = 2
@@ -19,17 +20,19 @@ def fibo(n):
         print(b)
     else:
         while i <= n:
-            sum = a+b
+            sum = a + b
             a = b
             b = sum
-            i = i+1
+            i = i + 1
         print(str(n) + "th Fibonacci is " + str(sum))
 
-def factorial(n):
-    if n==0:
-        return 1
-    return n * factorial(n-1)
 
-print(prime(31))
-print(fibo(3))
+def factorial(n):
+    if n == 0:
+        return 1
+    return n * factorial(n - 1)
+
+
+prime(31)
+fibonacci(3)
 print(factorial(5))
