@@ -14,32 +14,34 @@
     <session id="-483596918">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.23" value="1" />
-          <entry key="project.open.time.27" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="191" />
+          <entry key="dummy" value="4" />
+          <entry key="py" value="421" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="191" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="421" />
         </counts>
       </usages-collector>
     </session>
@@ -47,10 +49,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/College programs/VA-III/LAB 1 @ 27 July/operators.py">
+        <entry file="file://$PROJECT_DIR$/College programs/LAB 2@31 JULY/list.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="264">
+              <caret line="11" column="8" lean-forward="true" selection-end-line="16" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -73,6 +75,9 @@
         <option value="$PROJECT_DIR$/basics.py" />
         <option value="$PROJECT_DIR$/College programs/LAB 1 @24 July/factprimefibo.py" />
         <option value="$PROJECT_DIR$/College programs/VA-III/LAB 1 @ 27 July/operators.py" />
+        <option value="$PROJECT_DIR$/College programs/LAB 2@31 JULY/lab.py" />
+        <option value="$PROJECT_DIR$/College programs/LAB 2@31 JULY/tuples.py" />
+        <option value="$PROJECT_DIR$/College programs/LAB 2@31 JULY/list.py" />
       </list>
     </option>
   </component>
@@ -104,7 +109,13 @@
               <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
               <item name="College programs" type="462c0819:PsiDirectoryNode" />
-              <item name="VA-III" type="462c0819:PsiDirectoryNode" />
+              <item name="LAB 1 @24 July" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="College programs" type="462c0819:PsiDirectoryNode" />
+              <item name="LAB 2@31 JULY" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -125,8 +136,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow&#10;term&#9;ACTION&#9;ActivateTerminalToolWindow&#10;termin&#9;ACTION&#9;ActivateTerminalToolWindow" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/College programs/VA-III/LAB 1 @ 27 July/operators.py" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/College programs/LAB 2@31 JULY/list.py" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/College programs/VA-III/LAB 1 @ 27 July" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/College programs/LAB 2@31 JULY" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/College programs/VA-III/LAB 1 @ 27 July/operators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/College programs/LAB 2@31 JULY/list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -215,12 +226,12 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286385" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32419354" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3236715" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3983871" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3286385" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32580644" />
       <window_info anchor="bottom" id="Python Console" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -239,17 +250,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basics.py" />
     <entry file="file://$PROJECT_DIR$/College programs/VA-II/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/College programs/LAB 1 @24 July/factprimefibo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="37" column="6" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/College programs/VA-III/LAB 1 @ 27 July/operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/LAB 1 @24 July/factprimefibo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/LAB 2@31 JULY/tuples.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/LAB 2@31 JULY/list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="8" lean-forward="true" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
