@@ -1,7 +1,12 @@
 def add(X,Y,result):
-    for i in range(len(X)):
-        for j in range(len(X[0])):
+    for i in range(0,len(X)):
+        for j in range(0,len(X[0])):
             result[i][j] = X[i][j] + Y[i][j]
+
+def subtract(X,Y,result):
+    for i in range(0,len(X)):
+        for j in range(0,len(X[0])):
+            result[i][j] = X[i][j] - Y[i][j]
 
 
 
@@ -13,9 +18,12 @@ Y = [[9, 8, 7],
      [6, 5, 4],
      [3, 2, 1]]
 
-result = [[[0]*3 for i in range(3)]]
+added = [[0]*len(X[0]) for i in range(len(X))]
+subtracted = [[0]*len(X[0]) for i in range(len(X))]
+add(X,Y,added)
+subtract(X,Y,subtracted)
 
-add(X,Y,result)
-
-for r in result:
+for r in added:
+    print(r)
+for r in subtracted:
     print(r)

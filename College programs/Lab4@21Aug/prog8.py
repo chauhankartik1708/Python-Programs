@@ -4,13 +4,11 @@ def transpose(A, B):
             B[j][i] = A[i][j]
 
 
-A = [[1,2,3],
-     [4,5,6],
-     [7,8,9]]
+A = [[1,1,1],
+     [1,1,1],
+     [1,1,1]]
 
 B = [[0]*len(A[0]) for i in range(len(A))]
 transpose(A, B)
 
-print("Result matrix is")
-for i in B:
-    print(i)
+print(A==B)
