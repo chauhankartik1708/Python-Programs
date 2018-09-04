@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a3084ba7-d169-4653-9691-a9e3d9682436" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/College programs/Lab5@28AUG/prog3.py" beforeDir="false" afterPath="$PROJECT_DIR$/College programs/Lab5@28AUG/prog3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/College programs/VA-III/LAB 1 @ 27 July/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/College programs/VA-II/LAB 1 @ 27 July/operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/College programs/VA-III/Lab3@10AUG/lab.py" beforeDir="false" afterPath="$PROJECT_DIR$/College programs/VA-II/Lab3@10AUG/lab.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/College programs/Lab4@21Aug/prog16.py" beforeDir="false" afterPath="$PROJECT_DIR$/College programs/Lab4@21Aug/prog16.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,13 +15,15 @@
     <session id="-483596918">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="24" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.20" value="3" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="2" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.33" value="1" />
@@ -33,13 +33,13 @@
           <entry key="project.open.time.55" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="5" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.opened" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
-          <entry key="py" value="81" />
+          <entry key="py" value="107" />
           <entry key="py___jb_tmp___" value="1" />
         </counts>
       </usages-collector>
@@ -47,19 +47,19 @@
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="81" />
+          <entry key="Python" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="4" />
-          <entry key="py" value="4225" />
+          <entry key="dummy" value="6" />
+          <entry key="py" value="5599" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="4225" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Python" value="5599" />
         </counts>
       </usages-collector>
     </session>
@@ -67,10 +67,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/College programs/Lab5@28AUG/prog3.py">
+        <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog20.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="34">
+              <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -91,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basics.py" />
         <option value="$PROJECT_DIR$/College programs/LAB 1 @24 July/factprimefibo.py" />
         <option value="$PROJECT_DIR$/College programs/VA-III/LAB 1 @ 27 July/operators.py" />
         <option value="$PROJECT_DIR$/College programs/LAB 2@31 JULY/lab.py" />
@@ -123,15 +122,26 @@
         <option value="$PROJECT_DIR$/College programs/Lab4@21Aug/prog13.py" />
         <option value="$PROJECT_DIR$/College programs/Lab4@21Aug/prog14.py" />
         <option value="$PROJECT_DIR$/College programs/Lab4@21Aug/prog15.py" />
-        <option value="$PROJECT_DIR$/College programs/Lab4@21Aug/prog16.py" />
         <option value="$PROJECT_DIR$/College programs/Lab4@21Aug/prog17.py" />
-        <option value="$PROJECT_DIR$/College programs/Lab4@21Aug/prog19.py" />
         <option value="$PROJECT_DIR$/College programs/Lab4@21Aug/prog18.py" />
         <option value="$PROJECT_DIR$/College programs/Lab4@21Aug/prog20.py" />
         <option value="$PROJECT_DIR$/College programs/Lab4@21Aug/prog11.py" />
         <option value="$PROJECT_DIR$/College programs/Lab5@28AUG/prog1.py" />
         <option value="$PROJECT_DIR$/College programs/Lab5@28AUG/prog2.py" />
         <option value="$PROJECT_DIR$/College programs/Lab5@28AUG/prog3.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog1.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog4.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog6.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog8.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog10.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog12.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog14.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog16.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab4@21Aug/prog19.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog18.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog20.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog2.py" />
+        <option value="$PROJECT_DIR$/College programs/Lab4@21Aug/prog16.py" />
       </list>
     </option>
   </component>
@@ -149,6 +159,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="Python Programs" type="cbb8eebc:String" user="Python Programs" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -165,18 +186,13 @@
               <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
               <item name="College programs" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab5@28AUG" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab4@21Aug" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
             <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="Python Programs" type="cbb8eebc:String" user="Python Programs" />
+              <item name="Python Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="College programs" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab6@4Sep" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,7 +202,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="ter&#9;ACTION&#9;ActivateTerminalToolWindow&#10;term&#9;ACTION&#9;ActivateTerminalToolWindow&#10;termin&#9;ACTION&#9;ActivateTerminalToolWindow" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/College programs/Lab5@28AUG/prog3.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog2.py" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -236,11 +252,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/College programs/Lab5@28AUG" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/College programs/Lab6@4Sep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/College programs/Lab5@28AUG/prog3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/College programs/Lab6@4Sep/prog2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,7 +301,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24255952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24032739" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -303,25 +319,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24255952" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3286385" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3510467" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39774558" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32850242" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3236715" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32850242" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32850242" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -338,12 +335,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/students.txt" />
-    <entry file="file://$PROJECT_DIR$/venv/pyvenv.cfg">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basics.py" />
-    <entry file="file://$PROJECT_DIR$/College programs/VA-II/__init__.py" />
     <entry file="file://$PROJECT_DIR$/College programs/VA-II/LAB 1 @ 27 July/operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -527,66 +518,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog17.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="true" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="16" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog15.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" lean-forward="true" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog14.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="8" selection-end-line="2" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog13.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog12.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="16" lean-forward="true" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog18.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="23" lean-forward="true" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog20.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="11" lean-forward="true" selection-end-line="2" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -615,6 +550,155 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab6@4Sep/prog4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1536046037809" expanded="true" signature="18:23" ph="..." />
+            <marker date="1536046037809" expanded="true" signature="251:372" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab6@4Sep/prog6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <marker date="1536047041581" expanded="true" signature="50:55" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab6@4Sep/prog8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab6@4Sep/prog10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="true" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1536047682040" expanded="true" signature="25:30" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="true" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab6@4Sep/prog12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" lean-forward="true" selection-end-line="5" selection-end-column="33" />
+          <folding>
+            <marker date="1536047871390" expanded="true" signature="27:28" ph="..." />
+            <marker date="1536047871390" expanded="true" signature="27:29" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab6@4Sep/prog14.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="true" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab6@4Sep/prog16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="41" lean-forward="true" selection-end-line="7" />
+          <folding>
+            <marker date="1536048134675" expanded="true" signature="21:75" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab6@4Sep/prog18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" lean-forward="true" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <marker date="1536048407203" expanded="true" signature="25:26" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab6@4Sep/prog20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="25" lean-forward="true" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <marker date="1536048980590" expanded="true" signature="23:28" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" lean-forward="true" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab6@4Sep/prog2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog18.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog19.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/College programs/Lab4@21Aug/prog20.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
         </state>
       </provider>
     </entry>
